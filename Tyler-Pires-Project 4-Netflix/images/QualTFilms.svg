@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="163" viewBox="0 0 760 163">
+  <defs>
+    <style>
+      @font-face {
+        font-family: HelveticaNeueLTPro-XBlkCn, HelveticaNeueLTPro-XBlkCn, HelveticaNeueLTPro-XBlkCn, "Helvetica Neue LT Pro";
+        src: url("/fonts/HelveticaNeueLTPro-XBlkCn.otf") format("opentype");
+      }
+
+      .cls-2 {
+        font-size: 122px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: HelveticaNeueLTPro-XBlkCn, HelveticaNeueLTPro-XBlkCn, HelveticaNeueLTPro-XBlkCn, "Helvetica Neue LT Pro";
+        font-weight: 900;
+        text-shadow: 4px 2px blue;
+      }
+
+      .cls-2, .cls-4 {
+        fill: white;
+      }
+
+      .cls-4 {
+        font-size: 200px;
+      }
+    </style>
+  </defs>
+  <text id="QUAL-_2" data-name="QUAL-" class="cls-2" x="3" y="90">QUAL-</text>
+  <text id="_-MEDIA-2" data-name="-MEDIA" class="cls-2" x="376" y="90">-MEDIA</text>
+  <text id="T-2" data-name="T" class="cls-4" x="298" y="146">T</text>
+</svg>
